@@ -1,18 +1,7 @@
-## Getting Started
+## CONNOR'S CALCULATOR v1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is the first version of a calculator that I made using a tutorial that I found online. This got my started with Java, Javaswing, and the basic building blocks of making a good program.
 
-## Folder Structure
+# Changes in the future
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+I want to make anothergit  version of this calculator, similar logic, but in different classes to clean up readability and mutability.
